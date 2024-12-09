@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Pyae Sone Han</h1>
-<h3 align="left">a student from Myanmar learning software design and development.</h3>
+<h3 align="left">a student from Yangon, Myanmar learning software design and development.</h3>
 
-- 🌱 I’m currently learning **Kotlin, Swift, Dart & UI/UX Design.**
+- 🌱 I’m currently learning **Swift, Kotlin, Dart & UI/UX Design.**
 - 📫 How to reach me **pyaesonehan246810@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -13,8 +13,8 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Kotlin.svg" alt="kotlin" height="60"/> </a> 
   <a href="https://www.swift.org" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Swift.svg" alt="swift" height="60"/> </a> 
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Kotlin.svg" alt="kotlin" height="60"/> </a> 
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Dart.svg" alt="dart" height="60"/> </a>  
 </p>
 <h3 align="left">Tools:</h3>
