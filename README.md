@@ -19,8 +19,8 @@
 </p>
 <h3 align="left">Tools:</h3>
 <p align="left">
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Android-Studio.png" alt="android studio" height="60"/> </a> 
   <a href="https://developer.apple.com/xcode" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Xcode.svg" alt="xcode" height="60"/> </a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Android-Studio.png" alt="android studio" height="60"/> </a> 
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" alt="vs code" height="60"/> </a> 
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Git.svg" alt="git" height="60"/> </a> 
   <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" alt="github" height="60"/> </a>
